@@ -1,0 +1,26 @@
+Resultados de smallpt:
+
+1.UBUNTU
+	-Promedio: 223.86 segundos
+	-Desviacion: 1.51%
+2.PC
+	-Promedio: 31.22 segundos
+	-Desviacion: 0.73%
+	
+En UBUNTU el Benchmark se ejecuta en 223.86s mientras que en mi ordenador se ejecuta 31.22s. Por lo que se puede apreciar que mi ordenador es muchos más rápido que la máquina virtual de UBUNTU.
+
+La desviación de UBUNTU es mucho mayor, esto indica que que su rendimiento es inestable.
+
+Resultados de smallpt:
+
+1.UBUNTU
+	-Promedio: 22.86 segundos
+	-Desviacion: 0.97%
+2.PC
+	-Promedio: 20.48 segundos
+	-Desviacion: 2.80%
+	
+En UBUNTU se ejecuta en 22.86s mientras que en mi ordenador se ejecuta 20.48s. Por lo que se puede apreciar que mi ordenador es ligeramente más rápido que la máquina virtual de UBUNTU.
+
+Sin embargo, la desviación de UBUNTU es menor por lo que mostrará resultados mas consistentes.
+	
