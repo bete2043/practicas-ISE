@@ -1,2 +1,2 @@
 # practicas-ISE
-
+Este repositorio es de la asignatura de Ingeniería de Servidores, donde guardo imágenes y documentación sobre: la creación de particiones y particiones encriptadas en Linux y Rocky, el uso de Zabbix para monitorear servidores, Ansible para ejecutar tareas en varios dispositivos y Phoronix para medir el rendimiento del software en Linux. Además, incluye capturas y ejemplos del uso de GitHub para gestionar repositorios y control de versiones.
